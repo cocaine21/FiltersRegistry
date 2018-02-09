@@ -1,0 +1,35 @@
+! Checksum: CXDDkH4YAEbDksK/wp3Ds8KUQsOfw5nDpA=
+! Title: Experimental filter
+! Description: Filter designed to test certain hazardous filtering rules before they are added to the basic filters.
+! Version: 2.0.0.21
+! TimeUpdated: 2018-02-05T17:49:50+00:00
+! Expires: 1 day (update frequency)
+/fbevents.js^
+/ads/beacon-
+/AppMeasurement-$script
+~ukrinform.ua,~ukrinform.ru,~prophotos.ru,~cheater-top.ru,~allkey.org,~anti-free.ru,~art-on.ru,~blogig.org,~bloknot-krasnodar.ru,~bloknot-rostov.ru,~bloknot-stavropol.ru,~bucwar.ru,~bukvaved.biz,~capa.me,~car72.ru,~crox.ws,~delo.ua,~dfm.ru,~edp.kiev.ua,~f1comp.ru,~firstvds.ru,~forum.esetnod32.ru,~forum.ixbt.com,~fsm-portal.net,~gamai.ru,~gamegpu.ru,~games-java.ru,~golos-naroda.tv,~gradmart.ru,~hcdinamo.by,~hitfm.ru,~igromania.ru,~joomla.ru,~kahai.ru,~keddr.com,~kinogo.co,~kinoshka-new.ru,~maximum.ru,~maxthon.org.ru,~metallurg.ru,~mixupload.com,~montecarlo.ru,~moviez.kz,~onlinefilmu.ru,~planetaua.net,~respecta.net,~rulit.net,~rus-linux.net,~rusradio.ru,~smotretfilmy.ru,~sobytiya.info,~softek.ucoz.ru,~speedy-warez.ru,~uznayvse.ru,~vestivrn.ru,~wowjp.net,~yarportal.ru,~rozetka.com.ua,~kaermorhen.ru,~rubasket.com,~anal-porno.su##noindex a[rel="nofollow"] > img
+~kinogo-onlaine.net,~allmult.com,~batzbatz.com,~batzbatz.ru,~bobfilm.net,~bobfilm1.net,~fanserials.tv,~kinobar.kz,~kinoimperiya.net,~latino-serialo.ru,~nastol.com.ua,~novinkionlain.ru,~online-multy.ru,~rusdtp.ru,~smeshnoevideo.com,~vidoser.com,~xrust.ru,~zerx.tv,~docfilms.info,~kinogohd.net,porno-hd.tv###dle-content noindex > div[style]
+/realistik$image,third-party
+/maxisplash$image,third-party
+||youjizz.com/*/cache/*.gif
+mobiflip.de##div[data-widget="plista_widget_belowArticle"] ~ h4.post-header
+real-vin.com##div.sm-widget
+wowhead.com###page-content > div[class="main"] > div[class="blocks"]
+wowhead.com##div[class="wrapper"] > div[class="blocks"]
+rgmechanics.com##.sidebar.fright > div.widget.widget_text
+direkizlehd.tv##h2.post-baslik
+backpack.tf##.row-media > .col-md-5
+backpack.tf##.container > div[class="hidden-xs"] > div#media-side
+dailystar.co.uk##.rh.type1
+butamsenlik.com###content > div#single > div.breadcrumb+h1.mainHeading+div#singleBlock
+solidshare.net###genel > div.main > div#header
+rusnewstoday24.ru##.td-main-sidebar
+www.tut.by##.l-main > div#resource_block
+searchengines.guru##.smallfont td > div[align="right"]
+searchengines.guru##.smallfont td > div[style="white-space: nowrap;text-align: right"]
+searchengines.guru##table[id^="header"] div[style="display: block;"]
+null24.net##.td_block_text_with_title
+tosunkaya.com###text-html-widget-5
+gamona.de##ul[class$="list_base cols col2 image_base icon"]
+multiup.org##div[class^="span"] > div[class="well"][style^="height"]
+pocketnow.com##div+center > small

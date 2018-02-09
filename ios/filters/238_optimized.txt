@@ -1,0 +1,45 @@
+! Checksum: wqwFPRcNw5HCoGwBwodyMsK0wp1QwrY
+! Title: Adblock & uBlock polish filter - AdGuard supplement
+! Description: polskie filtry do Adblocka i uBlocka
+! Version: 2.0.0.21
+! TimeUpdated: 2018-02-05T17:49:19+00:00
+! Expires: 6 hours (update frequency)
+alltube.tv###please-wait-container
+efilmy.tv###step1
+efilmy.tv###hideOnClick
+gahe.pl###gameloader
+jeja.pl##.gameLoading
+jeja.pl###adLoading
+@@||national-geographic.pl/bundles/burdacore/js/adv.js$script
+vidzer.net###step1
+vidzer.net###hideOnClick
+zalukaj.com###freePlayerWatch
+friv12com.com###ava-advert_container
+gry-online.poszkole.pl###mr-tomato
+stooq.pl,stooq.com##td[align="center"] > [id]:contains(REKLAMA)
+cda.pl###aa_ad
+komputerswiat.pl#@#.adsbygoogle
+www.ps4forum.pl##.googleheader
+originals24.pl##table > tbody > tr > td > font:contains(Reklama)
+benchmark.pl###bannerDBB:style(height: 10px !important;)
+||privatestream.tv/logo.php
+||privatestream.tv/stats_streams.php
+prostozmostu.plpl##.contentsystem-slide-link
+newsweb.pl##body .td-header-style-11 .td-g-rec-id-header .adsbygoogle
+||spolecznosci.net^$image,subdocument,script
+||spolecznosci.net^$popup
+spidersweb.pl##.play_iframe
+silesion.pl##body .banner-ad
+||bestcontent.solutions/images/baner$image
+nslowo.pl###gkTopBar:style(position: static !important;)
+nslowo.pl###gkBg:style(background: none !important;)
+cartests.net###td-outer-wrap > .td-header-wrap:style(margin-bottom: 0px!important;)
+lubimyczytac.pl###content-container:style(background: none !important; padding-top: 0px !important)
+ogrodinfo.pl###header:style(padding-top: 64px !important;)
+podkarpackahistoria.pl###main-nav1:style(height: 50px !important;)
+tabletowo.pl###main_header:style(margin-top: 0px!important;)
+wirtualnygarwolin.pl###sbox-overlay, #sbox-window
+wykop.pl###dyingLinksBox > .dying-links:first-child ~ .dying-links:last-child:style(display:list-item !important)
+wykop.pl###dyingLinksBox > .dying-links:first-child ~ .dying-links[style="display: list-item;"] ~ .dying-links:style(display: none !important)
+alefunny.pl###myModal, .modal-backdrop
+gadzetomania.pl,wp.pl,autokult.pl,komorkomania.pl##.modal__body-adblock

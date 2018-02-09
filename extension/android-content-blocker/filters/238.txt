@@ -1,0 +1,141 @@
+! Checksum: wqjDncOcwqfDvsOyw6VCQC45wrfDnsKrw5A8
+! Title: Adblock & uBlock polish filter - AdGuard supplement
+! Description: polskie filtry do Adblocka i uBlocka
+! Version: 2.0.0.21
+! TimeUpdated: 2018-02-05T17:49:19+00:00
+! Expires: 6 hours (update frequency)
+!
+! Checksum: i6LntHrVx1Owfg8AGrxoyw
+! Title: Official Polish filters for AdBlock, uBlock Origin & AdGuard - supplement for AdGuard
+! Oficjalne polskie filtry do AdBlocka, uBlocka Origin i AdGuarda - uzupełnienie do AdGuarda
+! Codename: Official - supplement for AdGuard
+! Collaborators: F4z, FadeMind, hawkeye116477
+! Homepage: https://www.certyficate.it/
+! Last modified: 13 Jan 2018 19:35:00
+! Expires: 2 days
+! OriginalVersion: 2018011301
+! Support:
+!   Email >> errors@certyficate.it
+!   Discord >> http://ds.certyficate.it
+!   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
+! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+! Copyright (C) 2018 Certyficate IT
+! Najnowsza wersja zawsze na:  https://www.certyficate.it/adblock/
+! v.2018011301 aktualizacja: sob, 13 sty 2018, 19:35:00
+!
+!
+! http://alltube.tv/
+! Ominięcie czekania
+alltube.tv###please-wait-container
+!
+!
+! http://www.efilmy.tv/
+! Ominięcie przycisku "Close Ad and Watch as Free User"
+efilmy.tv###step1
+efilmy.tv###hideOnClick
+!
+! http://gahe.pl/
+! Ominięcie czekania
+gahe.pl###gameloader
+!
+! http://www.jeja.pl/
+! Ominięcie czekania
+jeja.pl##.gameLoading
+jeja.pl###adLoading
+!
+! http://www.national-geographic.pl/
+! Puste miejsce po reklamie
+@@||national-geographic.pl/bundles/burdacore/js/adv.js$script
+!
+! http://www.vidzer.net/
+! Ominięcie przycisku "Close Ad and Watch as Free User"
+vidzer.net###step1
+vidzer.net###hideOnClick
+!
+! http://zalukaj.com/
+! Ominięcie jednosekundowej reklamy
+zalukaj.com###freePlayerWatch
+!
+! http://www.friv12com.com/
+! Ominięcie czekania
+friv12com.com###ava-advert_container
+!
+! http://gry-online.poszkole.pl/
+! Ominięcie czekania
+gry-online.poszkole.pl###mr-tomato
+!
+! http://stooq.pl/
+! Ukrycie pozostałości po reklamach
+stooq.pl,stooq.com##td[align="center"] > [id]:contains(REKLAMA)
+!
+! http://www.cda.pl/
+! Ominięcie czekania przy ładowaniu gier
+cda.pl###aa_ad
+!
+! http://www.komputerswiat.pl
+! Adblock
+komputerswiat.pl#@#.adsbygoogle
+!
+! http://www.bankier.pl/
+!
+! senda.pl
+! Ukrycie pustego miejsca po reklamie
+!
+! www.ps4forum.pl
+www.ps4forum.pl##.googleheader
+!
+! kurnik.pl
+!
+! originals24.pl
+originals24.pl##table > tbody > tr > td > font:contains(Reklama)
+!
+! benchmark.pl
+benchmark.pl###bannerDBB:style(height: 10px !important;)
+!
+! dvbtmap.eu
+!
+! darmowa-telewizja.info & privatestream.tv
+||privatestream.tv/logo.php
+||privatestream.tv/stats_streams.php
+!
+! prostozmostu.pl
+prostozmostu.plpl##.contentsystem-slide-link
+!
+! newsweb.pl
+newsweb.pl##body .td-header-style-11 .td-g-rec-id-header .adsbygoogle
+!
+! spolecznosci.net
+||spolecznosci.net^$image,subdocument,script
+||spolecznosci.net^$popup
+!
+! windows7forum.pl
+!
+! spidersweb.pl
+spidersweb.pl##.play_iframe
+!
+! silesion.pl
+silesion.pl##body .banner-ad
+!
+!
+! nslowo.pl
+||bestcontent.solutions/images/baner$image
+nslowo.pl###gkTopBar:style(position: static !important;)
+nslowo.pl###gkBg:style(background: none !important;)
+!
+! portel.pl
+!
+! style()
+cartests.net###td-outer-wrap > .td-header-wrap:style(margin-bottom: 0px!important;)
+lubimyczytac.pl###content-container:style(background: none !important; padding-top: 0px !important)
+ogrodinfo.pl###header:style(padding-top: 64px !important;)
+podkarpackahistoria.pl###main-nav1:style(height: 50px !important;)
+tabletowo.pl###main_header:style(margin-top: 0px!important;)
+wirtualnygarwolin.pl###sbox-overlay, #sbox-window
+wykop.pl###dyingLinksBox > .dying-links:first-child ~ .dying-links:last-child:style(display:list-item !important)
+wykop.pl###dyingLinksBox > .dying-links:first-child ~ .dying-links[style="display: list-item;"] ~ .dying-links:style(display: none !important)
+!
+! Adblock
+alefunny.pl###myModal, .modal-backdrop
+gadzetomania.pl,wp.pl,autokult.pl,komorkomania.pl##.modal__body-adblock
+!
+! Rules after Adblock

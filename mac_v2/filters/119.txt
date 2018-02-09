@@ -1,0 +1,16 @@
+! Checksum: w4g0PzTCpBTCoMOpw7bCnsOJZsK1wqskw5k
+! Title: Icelandic ABP List
+! Description: íslenska supplement for EasyList
+! Version: 2.0.0.1
+! TimeUpdated: 2017-12-04T11:19:37+00:00
+! Expires: 1 day (update frequency)
+!
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+</body></html>
+</head><body>
+<h1>Not Acceptable</h1>
+<html><head>
+<p>Additionally, a 406 Not Acceptable
+<p>An appropriate representation of the requested resource /is.abp.txt could not be found on this server.</p>
+<title>406 Not Acceptable</title>
+error was encountered while trying to use an ErrorDocument to handle the request.</p>

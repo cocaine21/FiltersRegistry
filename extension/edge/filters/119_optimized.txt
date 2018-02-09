@@ -1,0 +1,6 @@
+! Checksum: EyZewpx4CQ8/dGXCp8OswrzCqcOLYQ=
+! Title: Icelandic ABP List
+! Description: íslenska supplement for EasyList
+! Version: 2.0.0.1
+! TimeUpdated: 2017-12-04T11:19:37+00:00
+! Expires: 1 day (update frequency)
